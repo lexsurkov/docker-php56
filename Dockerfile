@@ -1,6 +1,6 @@
 # VERSION                   0.2.0
 
-FROM dvapelnik/docker-lap:debian.squeeze.php56
+FROM dvapelnik/docker-lap:debian.jessie.php56
 
 MAINTAINER Aleksey Surkov <surkovlex@gmail.com>
 
